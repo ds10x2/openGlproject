@@ -1,0 +1,29 @@
+﻿  Renderer.cpp
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(36,24): warning C4244: '=': 'GLuint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(454,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(455,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(456,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(457,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(465,50): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(466,48): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(467,52): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(649,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(654,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(659,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(664,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(443,18): warning C4101: 'm1' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(447,16): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(447,13): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(447,10): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(966,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(967,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(968,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(970,43): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(971,43): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(972,43): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(1020,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(1021,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(1022,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(1001): warning C4715: 'readF': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\Kinect_Sample_Re\Renderer.cpp(1046): warning C4715: 'readFcloud': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Kinect_Sample_Re.vcxproj -> C:\Users\user\Desktop\coding\새 폴더\glcode1 - 복사본\x64\Debug\gltest.exe
